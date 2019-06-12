@@ -9,4 +9,3 @@ pyusb
 requests
 setuptools
 systemd
-testing
