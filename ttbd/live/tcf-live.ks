@@ -73,7 +73,7 @@ repo --name=updates --mirrorlist=https://mirrors.fedoraproject.org/mirrorlist?re
 # create after this
 #
 cat > /usr/sbin/cfg-vmifs.py <<EOF
-#! /usr/bin/python3
+#! /usr/bin/env python3
 #
 # If the system sports a network interface created by a TCF virtual
 # network setup, then create a systemd-networkd configuration file to

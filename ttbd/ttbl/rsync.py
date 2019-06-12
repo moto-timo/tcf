@@ -1,4 +1,4 @@
-#! /usr/bin/python
+#! /usr/bin/env python3
 """
 Power control module to start a rsync daemon when a network is powered-on
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -1,4 +1,4 @@
-#! /usr/bin/python
+#! /usr/bin/env python3
 #
 # Just rebind a driver to a device
 #
