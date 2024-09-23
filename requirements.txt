@@ -25,3 +25,4 @@ rpyc                # package: python3-rpyc
 setuptools          # package: python3-setuptools
 tabulate            # package: python3-tabulate
 termcolor; sys_platform != "win32"           # package: python3-termcolor
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
