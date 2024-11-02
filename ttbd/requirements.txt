@@ -43,3 +43,4 @@ rpyc            # package: centos,fedora=python3-rpyc
 setuptools      # package: python3-setuptools
 systemd-python  # package: python3-systemd
 tornado         # package: python3-tornado
+werkzeug>=3.0.6 # not directly required, pinned by Snyk to avoid a vulnerability
