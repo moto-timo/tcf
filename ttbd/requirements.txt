@@ -58,3 +58,4 @@ setuptools>=78.1.1 # package: python3-setuptools
 systemd-python  # package: python3-systemd
 # >=6.5 due to https://osv.dev/vulnerability/GHSA-7cx3-6m66-7c5m
 tornado>=6.5    # package: python3-tornado
+dnspython>=2.6.1 # not directly required, pinned by Snyk to avoid a vulnerability
